@@ -15,7 +15,7 @@ Your database should have an ingredient key with data:
 
 ## Getting Started
 Importing
-* npm clone https://github.com/manavbabber/foodies-hub.git
+* npm clone https://github.com/BornPsych/Burger-Bites.git
 * npm install
 * npm start
 
